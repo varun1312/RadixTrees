@@ -10,12 +10,8 @@ Directory Structure
 The directory structure is organized as follows:
 
 * [code] (./code)
-* [doc] (./doc)
   
 The "code" directory contains the source code and the corresponding Makefile.
-
-The "doc" directory contains the proof for the data structure presented in the
-paper.
 
 Build system
 ------------
